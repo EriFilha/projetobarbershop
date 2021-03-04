@@ -1,0 +1,90 @@
+main li {
+    display: inline;
+}
+
+h1 {
+    font-size: 140%;
+    display: inline;
+    text-align: center;
+}
+
+h2 {
+    display: inline;
+    font-size: 100%;
+    font-weight: bold;
+    color: rgb(214, 22, 22);
+}
+
+table {
+    text-align: center;
+}
+
+.loçao {
+    display: inline;
+    width: 20%;
+    height: 20%;
+}
+
+.balm {
+    display: inline;
+    width: 20%;
+    height: 20%;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+.oleo {
+    display: inline;
+    width: 20%;
+    height: 20%;
+}
+
+.minoxidil {
+    display: inline;
+    width: 20%;
+    height: 20%;
+}
+
+.pó {
+    display: inline;
+    width: 20%;
+    height: 20%;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+.pomada {
+    display: inline;
+    width: 20%;
+    height: 20%;
+}
+
+.retrô {
+    width: 20%;
+    height: 20%;
+}
+
+.teia {
+    width: 20%;
+    height: 20%;
+}
+
+.black {
+    width: 20%;
+    height: 20%;
+}
+
+.grooming {
+    width: 20%;
+    height: 20%;
+}
+
+.cabelo {
+    width: 20%;
+    height: 20%;
+}
+
+.shampoo {
+    width: 20%;
+    height: 20%;
+}

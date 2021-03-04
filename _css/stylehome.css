@@ -1,5 +1,5 @@
 body {
-    margin-left: 120px;
+    margin-left: 20%;
 }
 
 .menu {
@@ -11,8 +11,8 @@ img {
 }
 
 nav {
-    margin-left: 350px;
-    margin-top: -140px;
+    margin-left: 30%;
+    margin-top: -10%;
 }
 
 nav li {
@@ -20,11 +20,11 @@ nav li {
     font-size: 30px;
     font-weight: bold;
     text-transform: uppercase;
+    padding-left: 2%;
 }
 
 nav a {
     color: #DAA520;
-    margin-left: 10px;
 }
 
 nav a:hover {
@@ -32,30 +32,27 @@ nav a:hover {
 }
 
 main {
-    margin-top: 100px;
-    margin-right: 400px;
-    margin-left: -50px;
+    margin-top: 5%;
+    margin-right: 20%;
 }
 
 .descrição {
     color: #8B4513;
     font-size: 30px;
-    margin-left: -40px;
-    margin-bottom: 40px;
+    margin-bottom: 4%px;
 }
 
 p {
     text-align: justify;
     font-size: 20px;
     color: #8B4513;
-    margin-right: 80px;
-    margin-left: -40px;
-    margin-bottom: 100px;
+    margin-right: 20%;
+    margin-bottom: 10%x;
 }
 
 footer {
     color: #8B4513;
     text-align: right;
-    margin-right: 80px;
-    margin-bottom: 50px;
+    margin-right: 20%;
+    margin-bottom: 5%;
 }
